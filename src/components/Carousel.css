@@ -1,0 +1,10 @@
+.carousel {
+    width: 50%;
+    display: flex;
+    overflow-x: scroll;
+}
+
+.carousel-img {
+    height: 200px;
+    margin-inline: 1em;
+}
