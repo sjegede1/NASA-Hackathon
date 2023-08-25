@@ -17,7 +17,7 @@ function ImageContainer() {
     },[])
     return (
         <div className="container">
-            <Carousel data={data} />
+            <Carousel data={data} setCurrentData={setCurrentData} />
             <Description currentData={currentData} />
         </div>
     )
