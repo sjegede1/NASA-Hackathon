@@ -5,8 +5,9 @@ import ImageContainer from './components/ImageContainer';
 function App() {
   return (
     <div className="App">
-     <Welcome />
+      
       <ImageContainer />
+      <Welcome />
     </div>
   );
 }
