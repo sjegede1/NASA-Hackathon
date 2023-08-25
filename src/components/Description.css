@@ -1,5 +1,7 @@
 .description{
-    height: 8vh; 
+
     margin-top: 8vh;
+    padding: 20px; 
     font-size: 10px;
+    color: white; 
 }
