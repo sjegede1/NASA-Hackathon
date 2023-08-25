@@ -1,5 +1,6 @@
 import './App.css';
 import Header from './components/Header';
+import Welcome from './components/Welcome';
 import ImageContainer from './components/ImageContainer';
 
 function App() {
@@ -7,6 +8,7 @@ function App() {
     <div className="App">
       <Header />
       <ImageContainer />
+      <Welcome />
     </div>
   );
 }
