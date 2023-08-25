@@ -5,7 +5,7 @@ function Header() {
   return (
     <header>
         <img src="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png" alt="" className="header-icon" />
-        <h2>Welcome to NASA Space Cadets</h2>
+        <h3>Welcome to NASA Space Cadets</h3>
     </header>
   )
 }

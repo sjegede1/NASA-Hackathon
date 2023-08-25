@@ -4,7 +4,7 @@ import "./Welcome.css"
 
 function Welcome() {
   return (
-    <div className='topText'>
+    <div className='welcome'>
         welcome cadet!
         <h3>
             Interested in becoming an astronaut? Look no further our space cadet program will provide all of the essential

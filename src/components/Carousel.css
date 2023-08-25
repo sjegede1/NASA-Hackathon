@@ -5,6 +5,12 @@
 }
 
 .carousel-img {
+    border: solid white;
     height: 200px;
     margin-inline: 1em;
 }
+
+.carousel::-webkit-scrollbar {
+    display: none;
+  }
+  
