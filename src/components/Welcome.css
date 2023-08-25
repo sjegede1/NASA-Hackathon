@@ -1,9 +1,6 @@
-.topText{
+.welcome{
     font-family: romano;
     background-color:black;
-    height:300px;
-    width:1000px;
-    margin-left: 200px;
-    margin-right: 800px;
+    width:100%;
     color:white;
   }
