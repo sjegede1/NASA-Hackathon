@@ -1,10 +1,12 @@
 .carousel {
+
     width: 100%;
     display: flex;
     overflow-x: scroll;
 }
 
 .carousel-img {
+    border: solid white;
     height: 200px;
     margin-inline: 1em;
 }
